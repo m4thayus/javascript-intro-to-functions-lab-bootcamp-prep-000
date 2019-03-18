@@ -27,3 +27,4 @@ function sayHiToGrandma(string) {
 }
 
 shout("hello")
+whisper("hello")
