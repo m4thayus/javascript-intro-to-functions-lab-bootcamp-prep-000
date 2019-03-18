@@ -26,4 +26,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-shout(hello)
+shout("hello")
