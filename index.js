@@ -28,5 +28,8 @@ function sayHiToGrandma(string) {
   }
 }
 
-sayHiToGrandma(logShout("hello"))
+logShout("hello")
 logWhisper("HELLO")
+
+sayHiToGrandma("hello")
+sayHiToGrandma("HELLO")
