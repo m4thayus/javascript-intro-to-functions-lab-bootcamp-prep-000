@@ -28,5 +28,5 @@ function sayHiToGrandma(string) {
   }
 }
 
-logShout("hello")
+sayHiToGrandma(logShout("hello"))
 logWhisper("HELLO")
