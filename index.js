@@ -20,10 +20,10 @@ function sayHiToGrandma(string) {
   if (string === "I love you, Grandma.") {
     return "I love you, too."
   }
-  else if (string.shout() === string) {
+  else if (shout(string) === string) {
     return "YES INDEED!"
   }
-  else if (string.whisper() === string) {
+  else if (whisper(string) === string) {
     return "I can't hear you!"
   }
 }
